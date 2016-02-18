@@ -1,0 +1,22 @@
+{
+  "name": "fcc-backend-timestamp",
+  "version": "1.0.0",
+  "description": "FreeCodeCamp Backend API Project 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slbteam08/fcc-backend-timestamp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slbteam08/fcc-backend-timestamp/issues"
+  },
+  "homepage": "https://github.com/slbteam08/fcc-backend-timestamp#readme",
+  "engines": {
+    "node": "4.1.1"
+  }
+}
